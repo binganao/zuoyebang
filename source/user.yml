@@ -1,0 +1,9 @@
+username: ''
+password: ''
+interval: 300
+# taskpool: 0
+debug: true
+# 使用说明：
+# 修改「你的帐号」、「你的密码」等信息
+# 当出现问题时，将debug栏的「false」改为「true」，并提交程序目录产生的log文件给我
+# interval选项用于调整抢题间隔（单位毫秒），我已经优化到最佳了，如果想要慢一点的话可以适度增加（当网络情况不好时）
